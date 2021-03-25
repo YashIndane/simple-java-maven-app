@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * maven build !!!!!!!!!!
+ * maven build !!!!!!!!!!!!
  */
 public class App
 {
