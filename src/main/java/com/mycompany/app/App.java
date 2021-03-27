@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * maven build !!!!!!!!!!!!!!!!!!
+ * build on multicloud!
  */
 public class App
 {
